@@ -1,2 +1,0 @@
-class structtype():
-    pass
